@@ -1,0 +1,195 @@
+﻿@{
+    /**/
+
+    /**/
+
+    ViewBag.Title = "Home Page";
+}
+
+
+<section class="content">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <a href="javascript:void(0);" id="addnewArticle" class="btn btn-info">
+                        <i class="glyphicon glyphicon-plus"></i> Add Article
+                    </a>
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+                    <table id="listArticle" class="table table-striped table-bordered nowrap" cellspacing="0">
+                        <thead>
+                            <tr class="bg-info" style="text-align:center">
+                                <th style="text-align:center; width:10%">Id</th>
+                                <th style="text-align:center; width:25%">Name</th>
+                                <th style="text-align:center; width:20%">Description</th>
+                                <th style="text-align:center; width:15%">Price</th>
+                                <th style="text-align:center; width:10%">Store</th>
+                                <th style="text-align:center; width:20%">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table"></tbody>
+                    </table>
+                </div>
+                <!-- /.card-body -->
+            </div>
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+</section>
+
+
+
+@*modal*@
+
+<section style="display:none">
+    <form id="formStore" class="form-horizontal">
+        <div class="panel panel-primary">
+            <div class="panel-body">
+                @Html.Hidden("id")
+                <input type="hidden" id="idn" value="" class="form-control" />
+                <div class="form-group">
+                    @Html.Label("Store", new { @class = "control-label col-sm-4" })
+                    <div class="col-sm-8">
+                        @Html.DropDownList("selectStore", new SelectList(new List<object> { }), "Seleccionar", new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.Label("Name", new { @class = "control-label col-sm-4" })
+                    <div class="col-sm-8">
+                        @Html.TextBox("name", "", new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group" style="padding-top:0">
+                    @Html.Label("Description", new { @class = "control-label col-sm-4" })
+                    <div class="col-sm-8">
+                        @Html.TextBox("description", "", new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group" style="padding-top:0">
+                    @Html.Label("Price", new { @class = "control-label col-sm-4" })
+                    <div class="col-sm-8">
+                        @Html.TextBox("price", "", new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group" style="padding-top:0">
+                    @Html.Label("Total In Shelf", new { @class = "control-label col-sm-4" })
+                    <div class="col-sm-8">
+                        @Html.TextBox("totalInShelf", "", new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group" style="padding-top:0">
+                    @Html.Label("Total In Vault", new { @class = "control-label col-sm-4" })
+                    <div class="col-sm-8">
+                        @Html.TextBox("totalInVault", "", new { @class = "form-control" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</section>
+@*modal*@
+
+@section script
+{
+    <script src="~/Scripts/alertify.min.js"></script>
+    <script src="~/Scripts/article.js"></script>
+
+}
+@*<section class="content">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="card">
+                    <div class="card-header">
+                        <a href="javascript:void(0);" id="addArticle" class="btn btn-info">
+                            <i class="glyphicon glyphicon-plus"></i> Add Article
+                        </a>
+
+                    </div>
+                    <div class="card-body">
+                        <table id="listArticle" class="table table-striped table-bordered nowrap" cellspacing="0">
+                            <thead>
+                                <tr class="bg-info" style="text-align:center">
+                                    <th style="text-align:center; width:10%">Id</th>
+                                    <th style="text-align:center; width:25%">Name</th>
+                                    <th style="text-align:center; width:20%">Description</th>
+                                    <th style="text-align:center; width:15%">Price</th>
+                                    <th style="text-align:center; width:10%">Store</th>
+                                    <th style="text-align:center; width:20%">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table"></tbody>
+                        </table>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+
+
+
+    <div class="modal" id="modal">
+        <section style="display:none">
+            <form id="formStore" class="form-horizontal">
+                <div class="panel panel-primary">
+                    <div class="panel-body">
+                        @Html.Hidden("id")
+                        <input type="hidden" id="idn" value="" class="form-control" />
+                        <div class="form-group">
+                            @Html.Label("Store", new { @class = "control-label col-sm-4" })
+                            <div class="col-sm-8">
+                                @Html.DropDownList("selectStore", new SelectList(new List<object> { }), "Seleccionar", new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.Label("Name", new { @class = "control-label col-sm-4" })
+                            <div class="col-sm-8">
+                                @Html.TextBox("name", "", new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group" style="padding-top:0">
+                            @Html.Label("Description", new { @class = "control-label col-sm-4" })
+                            <div class="col-sm-8">
+                                @Html.TextBox("description", "", new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group" style="padding-top:0">
+                            @Html.Label("Price", new { @class = "control-label col-sm-4" })
+                            <div class="col-sm-8">
+                                @Html.TextBox("price", "", new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group" style="padding-top:0">
+                            @Html.Label("Total In Shelf", new { @class = "control-label col-sm-4" })
+                            <div class="col-sm-8">
+                                @Html.TextBox("totalInShelf", "", new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group" style="padding-top:0">
+                            @Html.Label("Total In Vault", new { @class = "control-label col-sm-4" })
+                            <div class="col-sm-8">
+                                @Html.TextBox("totalInVault", "", new { @class = "form-control" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </section>
+
+    </div>
+
+
+
+    @section script
+    {
+        <script src="~/Scripts/alertify.min.js"></script>
+        <script src="~/Scripts/article.js"></script>
+    }*@
+
+

@@ -1,0 +1,42 @@
+﻿
+
+
+<a href="javascript:void(0);" id="auten" class="btn btn-info">
+    <i class="glyphicon glyphicon-plus"></i> Autent
+</a>
+
+
+@section script
+{
+    <script>
+        // $('#auten').on('click', function () {
+        //    $.ajax({
+        //        url: 'http://localhost:56028/services/autenticationbasic',
+        //        type: 'GET',
+        //        contenttype: 'application/json',
+                
+        //        headers: {
+        //        "Authorization": "basic " + btoa("my_user" + ":" + "my_password")
+        //    },
+        //    success: function () {
+        //        alert('Thanks for your comment!');
+        //    }
+        //});
+        //});
+        $('#auten').on('click', function () {
+            $.ajax({
+                url: 'http://localhost:56028/services/autenticationbasic',
+                type: 'GET',
+                contenttype: 'application/json',
+                success: function (data) {
+                    alert(data);
+                },
+                beforeSend: function (xhr) {
+                    xhr.setRequestHeader("Authorization",
+                        "Basic " + btoa("my_user" + ":" + "my_password"));
+                }
+            });
+        });
+    </script>
+
+}

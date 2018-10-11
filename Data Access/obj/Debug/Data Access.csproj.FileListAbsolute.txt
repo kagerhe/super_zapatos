@@ -1,0 +1,96 @@
+F:\Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.CoreCompileInputs.cache
+F:\Super_Zapatos\Data Access\bin\Debug\Data Access.dll.config
+F:\Super_Zapatos\Data Access\bin\Debug\Data Access.dll
+F:\Super_Zapatos\Data Access\bin\Debug\Data Access.pdb
+F:\Super_Zapatos\Data Access\bin\Debug\Entity.dll
+F:\Super_Zapatos\Data Access\bin\Debug\EntityFramework.dll
+F:\Super_Zapatos\Data Access\bin\Debug\EntityFramework.SqlServer.dll
+F:\Super_Zapatos\Data Access\bin\Debug\Entity.pdb
+F:\Super_Zapatos\Data Access\bin\Debug\EntityFramework.xml
+F:\Super_Zapatos\Data Access\bin\Debug\EntityFramework.SqlServer.xml
+F:\Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.CopyComplete
+F:\Super_Zapatos\Data Access\obj\Debug\Data Access.dll
+F:\Super_Zapatos\Data Access\obj\Debug\Data Access.pdb
+F:\Super_Zapatos\Data Access\obj\Debug\Data Access.csprojAssemblyReference.cache
+F:\Super_Zapatos\Data Access\obj\Debug\Data_Access.Migrations.initial.resources
+F:\Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.GenerateResource.cache
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\Data Access.dll.config
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\Data Access.dll
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\Data Access.pdb
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\Entity.dll
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\EntityFramework.dll
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\EntityFramework.SqlServer.dll
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\Entity.pdb
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\EntityFramework.xml
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\bin\Debug\EntityFramework.SqlServer.xml
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\obj\Debug\Data Access.csprojAssemblyReference.cache
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\obj\Debug\Data_Access.Migrations.initial.resources
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.GenerateResource.cache
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.CoreCompileInputs.cache
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.CopyComplete
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\obj\Debug\Data Access.dll
+F:\PRACTICAS VB.NET\Super_Zapatos\Data Access\obj\Debug\Data Access.pdb
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\Data Access.dll.config
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\Data Access.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\Data Access.pdb
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\Entity.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\EntityFramework.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\EntityFramework.SqlServer.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\Entity.pdb
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\EntityFramework.xml
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\bin\Debug\EntityFramework.SqlServer.xml
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\obj\Debug\Data Access.csprojAssemblyReference.cache
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\obj\Debug\Data_Access.Migrations.initial.resources
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\obj\Debug\Data Access.csproj.GenerateResource.cache
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\obj\Debug\Data Access.csproj.CoreCompileInputs.cache
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\obj\Debug\Data Access.csproj.CopyComplete
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\obj\Debug\Data Access.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos2\Data Access\obj\Debug\Data Access.pdb
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\Data Access.dll.config
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\Data Access.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\Data Access.pdb
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\Entity.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\EntityFramework.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\EntityFramework.SqlServer.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\Entity.pdb
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\EntityFramework.xml
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\bin\Debug\EntityFramework.SqlServer.xml
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\obj\Debug\Data Access.csprojAssemblyReference.cache
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\obj\Debug\Data_Access.Migrations.initial.resources
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\obj\Debug\Data Access.csproj.GenerateResource.cache
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\obj\Debug\Data Access.csproj.CoreCompileInputs.cache
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\obj\Debug\Data Access.csproj.CopyComplete
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\obj\Debug\Data Access.dll
+F:\PRACTICAS VB.NET\sUPERZAPATOS3\Super_Zapatos3\Data Access\obj\Debug\Data Access.pdb
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\Data Access.dll.config
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\Data Access.dll
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\Data Access.pdb
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\Entity.dll
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\EntityFramework.dll
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\Entity.pdb
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\EntityFramework.xml
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\obj\Debug\Data Access.csprojAssemblyReference.cache
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\obj\Debug\Data_Access.Migrations.initial.resources
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.GenerateResource.cache
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.CoreCompileInputs.cache
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\obj\Debug\Data Access.csproj.CopyComplete
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\obj\Debug\Data Access.dll
+C:\Users\MarwinLopez\source\repos\Prueba_Super_Zapatos\Data Access\obj\Debug\Data Access.pdb
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\Data Access.dll.config
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\Data Access.dll
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\Data Access.pdb
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\Entity.dll
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\EntityFramework.dll
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\Entity.pdb
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\EntityFramework.xml
+C:\Users\Kari\Desktop\Entity\Data Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kari\Desktop\Entity\Data Access\obj\Debug\Data Access.csprojAssemblyReference.cache
+C:\Users\Kari\Desktop\Entity\Data Access\obj\Debug\Data_Access.Migrations.initial.resources
+C:\Users\Kari\Desktop\Entity\Data Access\obj\Debug\Data Access.csproj.GenerateResource.cache
+C:\Users\Kari\Desktop\Entity\Data Access\obj\Debug\Data Access.csproj.CoreCompileInputs.cache
+C:\Users\Kari\Desktop\Entity\Data Access\obj\Debug\Data Access.csproj.CopyComplete
+C:\Users\Kari\Desktop\Entity\Data Access\obj\Debug\Data Access.dll
+C:\Users\Kari\Desktop\Entity\Data Access\obj\Debug\Data Access.pdb
